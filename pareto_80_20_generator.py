@@ -28,6 +28,7 @@ def build(N):
     plt.hlines(y = mean, xmin = 0, xmax = N, linestyle = "dashed", colors = 'r')
     fig = plt.gcf()
     plt.xlim([0, LOOP])
+    plt.ylim(ymin = 0)
     plt.title('The first ' + str(N) + ' samples of Pareto alpha ' + "%.2f" %(alpha))
     fig.savefig('samples\\pareto_alpha_' + "%.2f" %(alpha) + '_first_' + str(N) + '_samples.png', dpi = 100)
     plt.clf()
@@ -49,7 +50,7 @@ def build(N):
     fig.savefig('mean\\sample_mean_after_' + str(N) + '_samples_alpha_' + "%.2f" %(alpha) + '.png', dpi = 100)
     plt.clf()
 
-for i in range(0, LOOP-1, 50000):
+for i in range(0, LOOP, 50000):
     build(i)
 
 import os
