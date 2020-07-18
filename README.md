@@ -5,6 +5,6 @@ Pareto 80-20 has the Pareto tail index log4(5), around 1.16. This means that the
 
 ![Test Image 2](https://github.com/fallintoplace/Visualizing-Pareto-80-20/blob/master/sample_mean.gif)
 
-New maxima can be much larger than past maxima.
+Future maxima cannot be predicted based on past maxima.
 
 ![Test Image 1](https://github.com/fallintoplace/Visualizing-Pareto-80-20/blob/master/samples_generated.gif)
