@@ -11,4 +11,4 @@ Future maxima cannot be predicted based on past maxima since tail bound no longe
 
 This is the reason why one cannot directly compare a Gaussian distributed variable (Traffic fatalities) to a Pareto distributed variable (Pandemic fatalities) from the samples.
 
-More: An Introduction to Statistical Modeling of Extreme Values from Stuart Coles.
+More: An Introduction to Statistical Modeling of Extreme Values by Stuart Coles.
