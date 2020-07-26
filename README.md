@@ -5,6 +5,8 @@ Pareto 80-20 has the Pareto tail index log4(5), around 1.16. This means that the
 
 ![Test Image 2](https://github.com/fallintoplace/Visualizing-Pareto-80-20/blob/master/sample_mean.gif)
 
+It needs 10^12 more data to converge to the same error as a normal distribution.
+
 Future maxima cannot be predicted based on past maxima since tail bound no longer holds.
 
 ![Test Image 1](https://github.com/fallintoplace/Visualizing-Pareto-80-20/blob/master/samples_generated.gif)
