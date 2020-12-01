@@ -14,3 +14,5 @@ Future maxima cannot be predicted purely based on past maxima since tail bound n
 This is the reason why one cannot directly compare a Gaussian distributed variable (Traffic fatalities) to a Pareto distributed variable (Pandemic fatalities) from the samples.
 
 More: An Introduction to Statistical Modeling of Extreme Values by Stuart Coles.
+
+![Hurricanes](https://github.com/fallintoplace/Asymptotic-Behaviour-of-Pareto-80-20/blob/master/Hurricanes.jpg)
