@@ -16,5 +16,5 @@ This is the reason why one cannot directly compare a Gaussian distributed variab
 More: An Introduction to Statistical Modeling of Extreme Values by Stuart Coles.
 
 ![Hurricanes](https://github.com/fallintoplace/Asymptotic-Behaviour-of-Pareto-80-20/blob/master/Hurricanes.jpg)
-
+![storms](https://github.com/fallintoplace/Asymptotic-Behaviour-of-Pareto-80-20/blob/master/trop_storm_events_in_the_u.s._80_-18-nom_inf_norm.gif)
 ![SPF](https://github.com/fallintoplace/Asymptotic-Behaviour-of-Pareto-80-20/blob/master/single_point_forecast.jpg)
